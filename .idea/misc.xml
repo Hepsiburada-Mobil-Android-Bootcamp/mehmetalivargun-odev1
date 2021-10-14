@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/blur_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/bottom_navigation_background.xml" value="0.1" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.1" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/button.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.37407407407407406" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/ic_notifications.xml" value="0.37407407407407406" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.37407407407407406" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/ic_profile.xml" value="0.37407407407407406" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/drawable/text_shape.xml" value="0.37407407407407406" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/layout/actor_item.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/layout/fragment_dashboard.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/layout/fragment_login_page.xml" value="0.2" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/layout/movie_item.xml" value="0.25" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/layout/spinner_item.xml" value="0.3625" />
+        <entry key="..\:/Users/mali/AndroidStudioProjects/odev1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mali/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/auto_complete_list.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/mali/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mali/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mali/Documents/GitHub/mehmetalivargun-odev1/app/src/main/res/drawable/blur_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/mali/Documents/GitHub/mehmetalivargun-odev1/app/src/main/res/drawable/ic_notifications.xml" value="0.3828125" />
+        <entry key="..\:/Users/mali/Documents/GitHub/mehmetalivargun-odev1/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mali/Documents/GitHub/mehmetalivargun-odev1/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mali/Documents/GitHub/mehmetalivargun-odev1/app/src/main/res/layout/fragment_login_page.xml" value="0.3352272727272727" />
+        <entry key="..\:/Users/mali/Documents/GitHub/mehmetalivargun-odev1/app/src/main/res/layout/movie_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mali/Documents/GitHub/mehmetalivargun-odev1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
