@@ -18,13 +18,6 @@
 [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)  
 [Blur View](https://github.com/Dimezis/BlurView)
 
-## Onboard
-![Alt Text](https://media.giphy.com/media/tPCQ0wn4v0AfjLQotm/giphy.gif)
-
-
-## Application
-![Alt Text](https://media.giphy.com/media/shbFIKK7yj6c0rPWwW/giphy.gif)
-
 
 
 
